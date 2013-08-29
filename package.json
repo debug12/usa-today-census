@@ -1,0 +1,30 @@
+{
+  "name": "usa-today-census",
+  "version": "0.1",
+  "author": "Timu Network",
+  "description": "node.js wrapper of the USA Today census API",
+  "contributors": [ 
+    {
+      "name": "Alishah Chator",
+      "email": "alishahc@umich.edu"
+    },
+    {
+      "name": "Deepak Kumar",
+      "email": "kumarde@umich.edu"
+    } 
+  ],
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/debug12/use-today-census.git"
+  },
+  "keywords": [
+    "census",
+    "http",
+    "usa-today"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
